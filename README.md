@@ -118,4 +118,3 @@ The algorithm works as follows:
 
 This project is open-source and available under the MIT License.
 # task-planner
-# task-planner
